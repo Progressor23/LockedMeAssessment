@@ -1,0 +1,9 @@
+Sprint Doc:
+
+18/09/2022-Understood the requirements of the project.(Time-Spent 4Hr)
+19/09/2022-According the requirements understood project can be done under the concepts of File-Handling operations which was taught in live Simplilearn Classes(3hr)
+20/09/2022-Once again gone through Live classes recording conducted by Deepak Y(2hrs)
+21/09/2022-Started working on the projected,implemented neseted switch case in the program according to requirements of the project.(1hr)
+22/09/2022-Further implemented addFiles() and deleteFiles() in the project(2hr)
+23/09/2022-Implemented searchFiles(),menu(),ExitClass()(4hr)
+24/09/2022-Tried to break the code,handled exceptions,tested the code with custom inputs,worked on documentation(5hr)
